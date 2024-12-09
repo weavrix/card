@@ -129,7 +129,9 @@ body{
     border: none;
 }
 
-.interfaceBtns .follow-btn:hover{
+
+
+.interfaceBtns .follow-btn{
     color: white;
     background-color: #76ABAE;
     border: none;
