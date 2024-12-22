@@ -1,3 +1,1 @@
-# ch-01
-# ch-01
-# ch-01
+#yooo chicooo card lol
